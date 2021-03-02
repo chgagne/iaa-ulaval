@@ -21,7 +21,7 @@ title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
   * Théorie bayésienne de la décision ([présentation](https://drive.google.com/open?id=19KxphxYArYHVoNBWsIysK1-cvQbxDosE) <i class="fas fa-chalkboard"></i>)
   * Méthodes paramétriques ([présentation](https://drive.google.com/open?id=1qZ6kQ5sANBTpiBr33irzw3SE5_5nBJiQ) <i class="fas fa-chalkboard"></i>)
 * Semaine 3 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqjukTTJkFiSJsQEVBOZ5Wn) <i class="fab fa-youtube"></i>)
-  * Méthodes multivariées ([présentation]() <i class="fas fa-chalkboard"></i>)
+  * Méthodes multivariées ([présentation](https://drive.google.com/open?id=174mBWqGO6ta9rFtYW3Up5VDKTQHcQAGA) <i class="fas fa-chalkboard"></i>)
   * Scikit-learn ([présentation](https://drive.google.com/open?id=13G7Wt03pbWD-33InpebrOiva8YY_JQSX) <i class="fas fa-chalkboard"></i>)
 * Semaine 4 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poqvfoyFTo6a05QaM4KSTi6) <i class="fab fa-youtube"></i>)
   * Méthodes non paramétriques ([présentation](https://drive.google.com/open?id=1cLKeC9k8mOZ9PRoITam3Bvui-WYMUvYl) <i class="fas fa-chalkboard"></i>)

@@ -22,6 +22,6 @@ defaults:
       related: false
       sidebar:
         - title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
-          image: https://setr-ulaval.github.io/img/UL-logo.svg
+          image: https://chgagne.github.io/iaa-ulaval/img/UL-logo.svg
           image_alt: "Université Laval"
 
