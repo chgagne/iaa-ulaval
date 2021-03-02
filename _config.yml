@@ -15,7 +15,6 @@ defaults:
     values:
       layout: single
       classes: wide
-      menu: main
       author_profile: false
       read_time: false
       comments: false

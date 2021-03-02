@@ -1,5 +1,7 @@
-main:
+fr:
   - title: "FR"
     url: /index.html
+
+en:
   - title: "EN"
     url: /english.html
