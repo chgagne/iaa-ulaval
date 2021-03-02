@@ -25,3 +25,5 @@ defaults:
           image: https://chgagne.github.io/iaa-ulaval/img/UL-logo.svg
           image_alt: "Université Laval"
 
+include:
+    - english.md
