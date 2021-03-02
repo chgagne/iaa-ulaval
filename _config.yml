@@ -1,0 +1,27 @@
+title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+name: "Université Laval"
+email: christian.gagne@gel.ulaval.ca
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
+plugins:
+   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      sidebar:
+        - title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+          image: https://setr-ulaval.github.io/img/UL-logo.svg
+          image_alt: "Université Laval"
+
