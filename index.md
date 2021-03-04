@@ -50,7 +50,7 @@ title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
 
 ## Projets ##
 
-* Projets en équipe de l'automne 2020  ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prVjlGg3Ec2bRvWLLCgKGtn) <i class="fab fa-youtube"></i>)
+* Quelques projets en équipe de l'automne 2020  ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prVjlGg3Ec2bRvWLLCgKGtn) <i class="fab fa-youtube"></i>)
 
 
 ---
