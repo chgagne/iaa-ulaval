@@ -1,4 +1,4 @@
-title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+title: "Introduction à l'apprentissage automatique - GIF-4101 / GIF-7005"
 name: "Université Laval"
 email: christian.gagne@gel.ulaval.ca
 
@@ -22,7 +22,7 @@ defaults:
       share: false
       related: false
       sidebar:
-        - title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+        - title: "Introduction à l'apprentissage automatique - GIF-4101 / GIF-7005"
           image: https://chgagne.github.io/iaa-ulaval/img/UL-logo.svg
           image_alt: "Université Laval"
 
