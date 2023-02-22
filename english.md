@@ -51,8 +51,8 @@ title: "Introduction to Machine Learning - GIF-7015"
 ## Projects ##
 
 * Best team project posters from Fall 2022
-  * [Classification de signaux audio basée sur l'activité électrique du cerveau des patients épileptiques](/projet/A2022/iaa_eq35_poster_A1.pdf)
-  * [Des chats créés par un IA](/projet/A2022/Affiche_Projet_GIF_7005_eq_16.pdf) 
+  * [Classification de signaux audio basée sur l'activité électrique du cerveau des patients épileptiques](/projets/A2022/iaa_eq35_poster_A1.pdf)
+  * [Des chats créés par un IA](/projets/A2022/Affiche_Projet_GIF_7005_eq_16.pdf) 
 * Some team projects from Fall 2021 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poBiK64bI55Vl8ZUQGj_SM9) <i class="fab fa-youtube"></i>)
 
 

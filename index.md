@@ -51,8 +51,8 @@ title: "Introduction à l'apprentissage automatique - GIF-4101 / GIF-7005"
 ## Projets ##
 
 * Meilleures affiches de projets de l'automne 2022
-  * [Classification de signaux audio basée sur l'activité électrique du cerveau des patients épileptiques](/projet/A2022/iaa_eq35_poster_A1.pdf)
-  * [Des chats créés par un IA](/projet/A2022/Affiche_Projet_GIF_7005_eq_16.pdf)
+  * [Classification de signaux audio basée sur l'activité électrique du cerveau des patients épileptiques](/projets/A2022/iaa_eq35_poster_A1.pdf)
+  * [Des chats créés par un IA](/projets/A2022/Affiche_Projet_GIF_7005_eq_16.pdf)
 * Quelques projets en équipe de l'automne 2021  ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poBiK64bI55Vl8ZUQGj_SM9) <i class="fab fa-youtube"></i>)
 
 
