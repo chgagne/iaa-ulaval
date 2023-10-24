@@ -32,7 +32,7 @@ title: "Introduction to Machine Learning - GIF-7015"
   * Kernel methods ([slides](/slides/sem06/iaa-sem06-methnoyaux-EN.pdf) <i class="fas fa-chalkboard"></i>)
 * Week 7 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppYsilzf_nHwJ9UHBSr8rz4) <i class="fab fa-youtube"></i>)
   * Multilayer perceptron ([slides](/slides/sem07/iaa-sem07-pmc-EN.pdf) <i class="fas fa-chalkboard"></i>)
-* Week 8 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppaF9aot-7sMm-S-twB8A5N) <i class="fab fa-youtube"></i>)
+* Week 8 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pr5CyAwo1KqzBIcxLDoYD4I) <i class="fab fa-youtube"></i>)
   * Deep learning ([slides](/slides/sem08/iaa-sem08-profond-EN.pdf) <i class="fas fa-chalkboard"></i>)
 * Week 10 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppAUZc2WgOPvfViOz2XN38X) <i class="fab fa-youtube"></i>)
   * Convolutional neural networks ([slides](/slides/sem10/iaa-sem10-reseauconv-EN.pdf) <i class="fas fa-chalkboard"></i>)

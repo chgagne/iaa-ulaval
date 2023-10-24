@@ -31,7 +31,7 @@ title: "Introduction à l'apprentissage automatique - GIF-4101 / GIF-7005"
   * Méthodes à noyau ([présentation](/slides/sem06/iaa-sem06-methnoyaux-FR.pdf) <i class="fas fa-chalkboard"></i>)
 * Semaine 7 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pplc8fD5xAS4BCOJOy1vSJz) <i class="fab fa-youtube"></i>)
   * Perceptron multicouche ([présentation](/slides/sem07/iaa-sem07-pmc-FR.pdf) <i class="fas fa-chalkboard"></i>)
-* Semaine 8 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqdwHyfUKAQ05a_U_77ENz4) <i class="fab fa-youtube"></i>)
+* Semaine 8 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppYasM3znc_TAMFUmXUiDhq) <i class="fab fa-youtube"></i>)
   * Apprentissage profond ([présentation](/slides/sem08/iaa-sem08-profond-FR.pdf) <i class="fas fa-chalkboard"></i>)
 * Semaine 10 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppL5GBFghU3o4A-294hLGQW) <i class="fab fa-youtube"></i>)
   * Réseaux de neurones à convolution ([présentation](/slides/sem10/iaa-sem10-reseauconv-FR.pdf) <i class="fas fa-chalkboard"></i>)
