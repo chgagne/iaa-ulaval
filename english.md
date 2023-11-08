@@ -35,7 +35,7 @@ title: "Introduction to Machine Learning - GIF-7015"
 * Week 8 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pr5CyAwo1KqzBIcxLDoYD4I) <i class="fab fa-youtube"></i>)
   * Deep learning ([slides](/slides/sem08/iaa-sem08-profond-EN.pdf) <i class="fas fa-chalkboard"></i>)
 * Week 10 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppAUZc2WgOPvfViOz2XN38X) <i class="fab fa-youtube"></i>)
-  * Convolutional neural networks ([slides](/slides/sem10/iaa-sem10-reseauconv-EN.pdf) <i class="fas fa-chalkboard"></i>)
+  * Deep Networks Architectures ([slides](/slides/sem10/iaa-sem10-archreseaux-EN.pdf) <i class="fas fa-chalkboard"></i>)
   * PyTorch ([slides](/slides/sem10/iaa-sem10-pytorch-EN.pdf) <i class="fas fa-chalkboard"></i>)
 * Week 11 ([videos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poSP-Noxd7vyz_oLKf7l5iG) <i class="fab fa-youtube"></i>)
   * Ensemble methods ([slides](/slides/sem11/iaa-sem11-ensemble-EN.pdf) <i class="fas fa-chalkboard"></i>)

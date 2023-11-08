@@ -34,7 +34,7 @@ title: "Introduction à l'apprentissage automatique - GIF-4101 / GIF-7005"
 * Semaine 8 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppYasM3znc_TAMFUmXUiDhq) <i class="fab fa-youtube"></i>)
   * Apprentissage profond ([présentation](/slides/sem08/iaa-sem08-profond-FR.pdf) <i class="fas fa-chalkboard"></i>)
 * Semaine 10 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppL5GBFghU3o4A-294hLGQW) <i class="fab fa-youtube"></i>)
-  * Réseaux de neurones à convolution ([présentation](/slides/sem10/iaa-sem10-reseauconv-FR.pdf) <i class="fas fa-chalkboard"></i>)
+  * Architectures de réseaux profonds ([présentation](/slides/sem10/iaa-sem10-archreseaux-FR.pdf) <i class="fas fa-chalkboard"></i>)
   * PyTorch ([présentation](/slides/sem10/iaa-sem10-pytorch-FR.pdf) <i class="fas fa-chalkboard"></i>)
 * Semaine 11 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poIXkaQOmQusLarmrj0t2a1) <i class="fab fa-youtube"></i>)
   * Méthodes par ensemble ([présentation](/slides/sem11/iaa-sem11-ensemble-FR.pdf) <i class="fas fa-chalkboard"></i>)
